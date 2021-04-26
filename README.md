@@ -28,7 +28,7 @@ Rational
 The JCIP Annotations are really useful, however they are released
 under the [Creative Commons Attribution License]
 (http://creativecommons.org/licenses/by/2.5), which is 
-[not recommended for licensing software](http://wiki.creativecommons.org/FAQ#Can_I_use_a_Creative_Commons_license_for_software.3F) 
+[not recommended for licensing software](https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software) 
 and may therefore cause issues for some people.
 
 Credits
